@@ -1,9 +1,9 @@
 body {
   margin: 0;
-  font-family: 'Comic Sans MS', sans-serif;
+  font-family: 'Anton', sans-serif;
   background: url('bg-image.JPG') no-repeat center center fixed;
   background-size : cover;
-  color: #2d2d2d;
+  color: #FFFFFF;
   text-align: center;
 }
 
